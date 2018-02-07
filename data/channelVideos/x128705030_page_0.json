@@ -1,0 +1,49 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "121360795",
+            "title": "TVPage - Shoppable Video For Merchants",
+            "date_created": "1490146175",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "TVPage is a platform that enables online merchants to create shoppable video experiences that can be embedded in their store, on average, driving a 32% increase in conversion rate and a 42% increase in average order value!\n\nRequest a demo today: https:\/\/www.tvpage.com\/request-demo",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CPau0a-pmZ4\/maxresdefault.jpg",
+                "uploadDate": 1490146175,
+                "videoId": "CPau0a-pmZ4",
+                "title": "TVPage - Shoppable Video For Merchants",
+                "description": "TVPage is a platform that enables online merchants to create shoppable video experiences that can be embedded in their store, on average, driving a 32% increase in conversion rate and a 42% increase in average order value!\n\nRequest a demo today: https:\/\/www.tvpage.com\/request-demo",
+                "author": "TVPage",
+                "mediaDuration": 67,
+                "prettyDuration": "00:01:07",
+                "views": "24"
+            },
+            "parentId": "128705030",
+            "url": "\/new-channel\/tvpage-shoppable-video-for-merchants\/128705030-121360795"
+        },
+        {
+            "id": "121360794",
+            "title": "Allon Caidar, CEO, TVPage - IBM Amplify 2017",
+            "date_created": "1496439981",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pAShLCQDYkk\/maxresdefault.jpg",
+                "uploadDate": 1496439981,
+                "videoId": "pAShLCQDYkk",
+                "title": "Allon Caidar, CEO, TVPage - IBM Amplify 2017",
+                "description": "",
+                "author": "TVPage",
+                "mediaDuration": 971,
+                "prettyDuration": "00:16:11",
+                "views": "7"
+            },
+            "parentId": "128705030",
+            "url": "\/new-channel\/allon-caidar-ceo-tvpage-ibm-amplify-2017\/128705030-121360794"
+        }
+    ]
+}
